@@ -6,7 +6,7 @@ This repository contains the Solidity smart contract code for the Skill Token Ma
 
 ## Contract Details
 
-- **Contract Address:** (0x2E6d1cbcEB54E2C92023a8E806a7750152b19197 (Scroll Sepolia Testnet)
+- **Contract Address:** 0x2E6d1cbcEB54E2C92023a8E806a7750152b19197 (Scroll Sepolia Testnet)
 - **link to scroll-etherscan :** (INSERT LINK)
 ## Functions
 
