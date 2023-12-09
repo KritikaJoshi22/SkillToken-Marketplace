@@ -7,7 +7,7 @@ This repository contains the Solidity smart contract code for the Skill Token Ma
 ## Contract Details
 
 - **Contract Address:** 0x2E6d1cbcEB54E2C92023a8E806a7750152b19197 (Scroll Sepolia Testnet)
-- **link to scroll-etherscan :** (INSERT LINK)
+- **Link to scroll-etherscan :** (INSERT LINK)
 ## Functions
 
 1. **Create Skill Listing:**
@@ -31,6 +31,8 @@ This repository contains the Solidity smart contract code for SkillTokens. Skill
 ## Contract Details
 
 - **Contract Address:** 0xEEF7901D040BFB5C42293e513192d61f579D59ea, 0xB70c85fE15C2FF1Fa4c26B2794d2811387A4aa8F
+- **Link to scroll-etherscan :** (INSERT LINK)
+
 ## Functions
 
 1. **Mint Skill Tokens:**
